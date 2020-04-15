@@ -93,9 +93,9 @@ We will walk through this during the session:
 
 ![](images/databricks_ce_create_mlr.png)
 
-4. From the brower: 
- 1. Go the GitHub **notebooks** subdirectory
- 2. Download **MLFlow-CE.dbc** files on your laptop
+4. In the brower: 
+  * (1) Go the GitHub **notebooks** subdirectory
+  * (2) Download **MLFlow-CE.dbc** files on your laptop
 
 ![](images/databricks_ce_download_notebooks.png)
 
