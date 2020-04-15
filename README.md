@@ -88,9 +88,11 @@ We will walk through this during the session:
 2. [Login](https://community.cloud.databricks.com/login.html) into the Datarbicks Community Edition]
 
 ![](images/databricks_ce_loging.png)
+
 3. Create a ML Runtime 6.5 Cluster
 
 ![](images/databricks_ce_create_mlr.png)
+
 4. Import the notebooks into the Databricks Community Edition
 
 ![](images/databricks_ce_import_notebooks.png)
