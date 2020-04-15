@@ -93,7 +93,7 @@ We will walk through this during the session:
 ![](images/databricks_ce_create_mlr.png)
 4. Import the notebooks into the Databricks Community Edition
 
-![](images/databricks_ce_import_notebooks)
+![](images/databricks_ce_import_notebooks.png)
 
 Let's go!
 
