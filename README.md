@@ -18,7 +18,7 @@ accelerating the ML lifecycle for organizations of any size.
 
 What you will learn
 -------------------
-Understand the four main components of open source MLflow (MLflow Tracking, MLflow Projects, MLflow Models, and MLfow Registry) and how each help address challenges of the ML lifecycle.
+Understand the four main components of open source MLflow——MLflow Tracking, MLflow Projects, MLflow Models, and MLfow Registry—and how each compopnent helps address challenges of the ML lifecycle.
  * How to use [MLflow Tracking](https://mlflow.org/docs/latest/tracking.html) to record and query experiments: code, data, config, and results.
  * How to use [MLflow Projects](https://mlflow.org/docs/latest/projects.html) packaging format to reproduce runs
  * How to use [MLflow Models](https://mlflow.org/docs/latest/models.html) general format to send models to diverse deployment tools.
@@ -37,18 +37,16 @@ About the MLflow workshop part 1
 --------------------------------
 
 In this part 1, we will cover:
- * Concepts and motivation behind MLflow
- * Familirize with the API Documentation
  * Learn how to use Databricks Community Edition Notebook
+ * Concepts and motivation behind MLflow
+ * Tour of the the MLflow API Documentation
+   * How to use MLflow Tracking APIs
  * Introduce MLflow Tracking
- * How to use MLflow Tracking APIs 
- * Use the MLflow UI to compare metrics, runs
- * How to use Databricks Community Edition
- * Work through couple of models using Databricks Community Edition
+ * Use the MLflow UI to compare experiment metrics, parameters, and runs
+ * Walk and work through a couple of machine models using MLflow APIs in the Databricks Community Edition
 
 Prerequisites
 -------------
-This workshop assumes familiarity with the basics of:
 * Pre-register for [Databricks Community Edition](https://databricks.com/try-databricks)
 * Knowledge of Python 3 and programming in general
 * Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
@@ -64,9 +62,10 @@ This workshop assumes familiarity with the basics of:
 Obtaining the Tutorial Material
 --------------------------------
 
-Familiar with git is important so that you can get all the material easily and work in it 
-in your free time, after the session is over 
+Familiarity with git is important so that you can get all the material easily during the tutorial and
+workshop as well as continue to work on in your free time, after the session is over.
 
+``` git clone git@github.com:dmatrix/mlflow-workshop-part-1.git ```
 
 Documentation Resources
 -----------------------
@@ -80,6 +79,21 @@ This tutorial will require recent refering to documentation:
 5. [Keras](https://keras.io/optimizers/)
 6. [TensorFlow](https://tensorflow.org)
 7. [Matplotlib](https://matplotlib.org/3.2.0/tutorials/introductory/pyplot.html)
+
+How to get started
+-------------------
+We will walk through this during the session:
+
+1. ``` git clone git@github.com:dmatrix/mlflow-workshop-part-1.git ```
+2. [Login](https://community.cloud.databricks.com/login.html) into the Datarbicks Community Edition]
+
+![](images/databricks_ce_loging.png)
+3. Create a ML Runtime 6.5 Cluster
+
+![](images/databricks_ce_create_mlr.png)
+4. Import the notebooks into the Databricks Community Edition
+
+![](images/databricks_ce_import_notebooks)
 
 Let's go!
 
