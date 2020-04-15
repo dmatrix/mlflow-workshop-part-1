@@ -93,7 +93,13 @@ We will walk through this during the session:
 
 ![](images/databricks_ce_create_mlr.png)
 
-4. Import the notebooks into the Databricks Community Edition
+4. From the brower: 
+ 1. Go the GitHub **notebooks** subdirectory
+ 2. Download **MLFlow-CE.dbc** files on your laptop
+
+![](images/databricks_ce_download_notebooks.png)
+
+5. Import the **MLFlow-CE.dbc** into the Databricks Community Edition
 
 ![](images/databricks_ce_import_notebooks.png)
 
