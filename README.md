@@ -55,8 +55,8 @@ Prerequisites
      * scikit-Learn
      * pandas and Numpy
      * matplotlib
-* [optional for part-1] PyCharm/IntelliJ or choice of syntax-based Python editor
-* [optional for part-1] pip/pip3 or conda and Python 3 installed
+* [**optional for part-1**] PyCharm/IntelliJ or choice of syntax-based Python editor
+* [**optional for part-1**] pip/pip3 or conda and Python 3 installed
 * Loads of laughter, curiosity, and a sense of humor ... :-)
 
 Obtaining the Tutorial Material
