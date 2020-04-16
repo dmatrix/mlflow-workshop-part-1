@@ -10,10 +10,10 @@ Other parts:
 
 Content for the MLflow Series
 -----------------------------
-ML development brings many new complexities beyond the traditional software development lifecycle. Unlike in traditional software development, ML developers want to try multiple algorithms, tools and parameters to get the best results, and they need to track this information to reproduce work. In addition, developers need to use many distinct systems to productionize models.
+Machine Learning (ML) development brings many new complexities beyond the traditional software development lifecycle. Unlike in traditional software development, ML developers want to try multiple algorithms, tools and parameters to get the best results, and they need to track this information to reproduce work. In addition, developers need to use many distinct systems to productionize models.
 
 To solve these challenges, [MLflow](https://mlflow.org), an open source project, simplifies the entire ML lifecycle. MLflow introduces simple abstractions to package reproducible projects, track results, 
-and encapsulate models that can be used with many existing tools, and central respositry to share models,
+encapsulate models that can be used with many existing tools, and central respositry to share models,
 accelerating the ML lifecycle for organizations of any size.
 
 What you will learn
@@ -37,13 +37,13 @@ About the MLflow workshop part 1
 --------------------------------
 
 In this part 1, we will cover:
- * Learn how to use Databricks Community Edition Notebook
+ * Learn how to use Databricks Community Edition (DCE)
+    * How to use the DCE notebook
  * Concepts and motivation behind MLflow
  * Tour of the the MLflow API Documentation
-   * How to use MLflow Tracking APIs
- * Introduce MLflow Tracking
- * Use the MLflow UI to compare experiment metrics, parameters, and runs
- * Walk and work through a couple of machine models using MLflow APIs in the Databricks Community Edition
+ * Introduce MLflow Python Fluent Tracking APIs
+ * Walk and work through a couple of machine models using MLflow APIs in the DCE
+ * Use the MLflow UI as part of DCE to compare experiment metrics, parameters, and runs
 
 Prerequisites
 -------------
@@ -95,11 +95,11 @@ We will walk through this during the session:
 
 4. In the brower: 
   * (1) Go the GitHub **notebooks** subdirectory
-  * (2) Download **MLFlow-CE.dbc** files on your laptop
+  * (2) Download **MLFlow-CE.dbc** file on your laptop
 
 ![](images/databricks_ce_download_notebooks.png)
 
-5. Import the **MLFlow-CE.dbc** into the Databricks Community Edition
+5. Import the **MLFlow-CE.dbc** file into the Databricks Community Edition
 
 ![](images/databricks_ce_import_notebooks.png)
 
