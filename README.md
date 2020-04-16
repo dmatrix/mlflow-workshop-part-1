@@ -16,6 +16,11 @@ To solve these challenges, [MLflow](https://mlflow.org), an open source project,
 encapsulate models that can be used with many existing tools, and central respositry to share models,
 accelerating the ML lifecycle for organizations of any size.
 
+Goal and Objective
+------------------
+Aimed at beginner or intermediate level, this four-part series aims to educate data scientists or ML developer in how you 
+leverage MLflow as a platform to track experiments, package projects to reproduce runs, use model flavors to deploy in diverse environments, and manage models in a central respository for sharing.
+
 What you will learn
 -------------------
 Understand the four main components of open source MLflow——MLflow Tracking, MLflow Projects, MLflow Models, and MLfow Registry—and how each compopnent helps address challenges of the ML lifecycle.
