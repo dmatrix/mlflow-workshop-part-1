@@ -51,7 +51,7 @@ In this part 1, we will cover:
 
 Prerequisites
 -------------
-* Pre-register for [Databricks Community Edition](https://databricks.com/try-databricks)
+* Before the session, please pre-register for [Databricks Community Edition](https://databricks.com/try-databricks)
 * Knowledge of Python 3 and programming in general
 * Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
 * Familiarity with GitHub, git, and an account on Github
@@ -66,15 +66,15 @@ Prerequisites
 Obtaining the Tutorial Material
 --------------------------------
 
-Familiarity with git is important so that you can get all the material easily during the tutorial and
-workshop as well as continue to work on in your free time, after the session is over.
+Familiarity with **git** is important so that you can get all the material easily during the tutorial and
+workshop as well as continue to work in your free time, after the session is over.
 
 ``` git clone git@github.com:dmatrix/mlflow-workshop-part-1.git or git clone https://github.com/dmatrix/mlflow-workshop-part-1.git```
 
 Documentation Resources
 -----------------------
 
-This tutorial will require recent refering to documentation: 
+This tutorial will refer to documentation: 
 
 1. [MLflow](https://mlflow.org/docs/latest/index.html) 
 2. [Numpy](https://numpy.org/devdocs/user/quickstart.html)
@@ -86,7 +86,7 @@ This tutorial will require recent refering to documentation:
 
 How to get started
 -------------------
-We will walk through this during the session:
+We will walk through this during the session, please sign up for [Databrick Community Edition](https://databricks.com/try-databricks) before the session :
 
 1. ``` git clone git@github.com:dmatrix/mlflow-workshop-part-1.git ```
 2. [Login](https://community.cloud.databricks.com/login.html) into the Datarbicks Community Edition]
