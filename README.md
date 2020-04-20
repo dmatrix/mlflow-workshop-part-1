@@ -22,7 +22,7 @@ leverage MLflow as a platform to track experiments, package projects to reproduc
 
 What you will learn
 -------------------
-Understand the three main components of open source MLflow——MLflow Tracking, MLflow Projects, MLflow Models, and Model Registry—and how each compopnent helps address challenges of the ML lifecycle.
+Understand the four main components of open source MLflow——MLflow Tracking, MLflow Projects, MLflow Models, and Model Registry—and how each compopnent helps address challenges of the ML lifecycle.
  * How to use [MLflow Tracking](https://mlflow.org/docs/latest/tracking.html) to record and query experiments: code, data, config, and results.
  * How to use [MLflow Projects](https://mlflow.org/docs/latest/projects.html) packaging format to reproduce runs
  * How to use [MLflow Models](https://mlflow.org/docs/latest/models.html) general format to send models to diverse deployment tools.
@@ -41,9 +41,8 @@ About the MLflow workshop part 1
 --------------------------------
 
 In this part 1, we will cover:
- * Learn how to use Databricks Community Edition (DCE)
-    * How to use the DCE notebook
  * Concepts and motivation behind MLflow
+ * Learn how to use Databricks Community Edition (DCE)
  * Tour of the the MLflow API Documentation
  * Introduce MLflow Python Fluent Tracking APIs
  * Walk and work through a couple of machine models using MLflow APIs in the DCE
