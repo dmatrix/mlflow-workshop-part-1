@@ -45,7 +45,7 @@ In this part 1, we will cover:
  * Learn how to use Databricks Community Edition (DCE)
  * Tour of the the MLflow API Documentation
  * Introduce MLflow Python Fluent Tracking APIs
- * Walk and work through a couple of machine models using MLflow APIs in the DCE
+ * Walk and work through a three machine learning models using MLflow APIs in the DCE
  * Use the MLflow UI as part of DCE to compare experiment metrics, parameters, and runs
 
 Prerequisites
@@ -55,7 +55,7 @@ Prerequisites
 * Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
 * Familiarity with GitHub, git, and an account on Github
 * Some knowledge of Machine Learning concepts, libraries, and frameworks 
-     * scikit-Learn
+     * scikit-learn
      * pandas and Numpy
      * matplotlib
 * [**optional for part-1**] PyCharm/IntelliJ or choice of syntax-based Python editor
@@ -85,7 +85,7 @@ This tutorial will refer to documentation:
 
 How to get started
 -------------------
-We will walk through this during the session, please sign up for [Databrick Community Edition](https://databricks.com/try-databricks) before the session :
+We will walk through this during the session, but please sign up for [Databrick Community Edition](https://databricks.com/try-databricks) before the session :
 
 1. ``` git clone git@github.com:dmatrix/mlflow-workshop-part-1.git ```
 2. [Login](https://community.cloud.databricks.com/login.html) into the Datarbicks Community Edition]
@@ -109,4 +109,5 @@ We will walk through this during the session, please sign up for [Databrick Comm
 Let's go!
 
 Cheers,
+
 Jules
