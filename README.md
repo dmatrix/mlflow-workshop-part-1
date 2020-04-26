@@ -5,7 +5,7 @@ Part 1 of 3
 -----------
 Other parts:
 - [Part 2](https://github.com/dmatrix/mlflow-workshop-part-2)
-- [Part 3]()
+- [Part 3](https://github.com/dmatrix/mlflow-workshop-part-3)
 
 Content for the MLflow Series
 -----------------------------
