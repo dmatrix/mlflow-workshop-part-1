@@ -1,6 +1,7 @@
  Managing the Complete Machine Learning Lifecycle with MLflow
 =============================================================
 ![](images/mlflow-workshop.png)
+![watch the recording](images/mlflow-workshop1-youtube.png)
 Part 1 of 3
 -----------
 Other parts:
