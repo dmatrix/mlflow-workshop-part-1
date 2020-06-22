@@ -1,12 +1,13 @@
  Managing the Complete Machine Learning Lifecycle with MLflow
 =============================================================
 ![](images/mlflow-workshop.png)
-![watch the recording](images/mlflow-workshop1-youtube.png)
+
 Part 1 of 3
 -----------
 Other parts:
 - [Part 2](https://github.com/dmatrix/mlflow-workshop-part-2)
 - [Part 3](https://github.com/dmatrix/mlflow-workshop-part-3)
+- [Watch workshops on YouTube](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjDg318nmSxRqTgZFWQ2ZC)
 
 Content for the MLflow Series
 -----------------------------
